@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient id="linearGradient6650" x1="23.403" x2="23.39" y1="44.067" y2="42.884"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" stop-opacity="0" offset="0" />
+            <stop stop-color="#fff" stop-opacity=".87451" offset="1" />
+        </linearGradient>
+        <linearGradient id="linearGradient6646" x1="23.35" x2="23.441" y1="42.768" y2="43.711"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#828282" offset="0" />
+            <stop stop-color="#929292" stop-opacity=".35294" offset="1" />
+        </linearGradient>
+        <linearGradient id="linearGradient6644" x1="23.193" x2="23.2" y1="42.429" y2="44"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#adadad" offset="0" />
+            <stop stop-color="#f0f0f0" offset="1" />
+        </linearGradient>
+    </defs>
+    <g transform="matrix(31.25 0 0 31.25 -625.02 -1325)">
+        <path transform="translate(-2.3993 -1e-6)"
+            d="m24 43.2c0 0.4416-0.3584 0.8-0.8 0.8s-0.8-0.3584-0.8-0.8 0.3584-0.8 0.8-0.8 0.8 0.3584 0.8 0.8z"
+            fill="url(#linearGradient6644)" />
+        <path transform="matrix(1.0825 0 0 1.0825 -4.4316 -3.667)"
+            d="m23.906 43.296c0 0.32923-0.2672 0.59643-0.59643 0.59643s-0.59643-0.2672-0.59643-0.59643 0.2672-0.59643 0.59643-0.59643 0.59643 0.2672 0.59643 0.59643z"
+            fill="url(#linearGradient6646)" />
+        <path transform="matrix(.96907 0 0 .96907 -1.7883 1.2429)"
+            d="m23.906 43.296c0 0.32923-0.2672 0.59643-0.59643 0.59643s-0.59643-0.2672-0.59643-0.59643 0.2672-0.59643 0.59643-0.59643 0.59643 0.2672 0.59643 0.59643z"
+            fill="#cf0000" />
+        <path transform="matrix(.7732 0 0 .59794 2.7769 17.119)"
+            d="m23.906 43.296c0 0.32923-0.2672 0.59643-0.59643 0.59643s-0.59643-0.2672-0.59643-0.59643 0.2672-0.59643 0.59643-0.59643 0.59643 0.2672 0.59643 0.59643z"
+            fill="url(#linearGradient6650)" />
+    </g>
+</svg>
