@@ -22,6 +22,12 @@ Welcome to the Free HMI Vectors, Images and Icons Repository. This repository is
 | --------- | --------- | -------- | -------- | -------------------------- | ------------ |
 | %name%    | %off_img% | %on_img% | %format% | `./assets/switchs/%name%/` |              |
 
+### Related Symbols
+
+| Name    | Description | Format | Folder Location             | Symbols                                                                                                                                                    |
+| ------- | ----------- | ------ | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| marks-1 | check marks | SVG    | `./assets/symbols/marks-1/` | <img src="./assets/symbols/marks-1/marks-1-cross.svg" width="50" height="50"> <img src="./assets/symbols/marks-1/marks-1-tick.svg" width="50" height="50"> |
+
 ## How to Contribute
 
 We welcome contributions from the community! If you have icons or images that you would like to share, please follow these steps:
